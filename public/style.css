@@ -1,0 +1,27 @@
+body{
+    /* background-color: yellowgreen; */
+    /* color: white; */
+    text-align: center;
+} 
+img{
+    height: 90px;
+     margin: auto;
+     width: auto;
+     border: 3px solid green;
+     padding: 10px;
+    }
+input{
+    height: 25px;
+    border: solid green;
+}
+button{
+    height: 35px;
+    border: solid green;
+
+}
+li{
+margin:15px;
+font-size: 20px;
+font-family: bold;
+display: inline-block;
+}
